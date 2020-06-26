@@ -1,0 +1,250 @@
+{
+  "movies": [
+    {
+      "Title": "Star Wars: Episode IV - A New Hope",
+      "Year": "1977",
+      "Rated": "PG",
+      "Released": "25 May 1977",
+      "Runtime": "121 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
+      "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 6 Oscars. Another 52 wins & 28 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,194,693",
+      "imdbID": "tt0076759",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 9
+    },
+    {
+      "Title": "Joker",
+      "Year": "2019",
+      "Rated": "R",
+      "Released": "04 Oct 2019",
+      "Runtime": "122 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Todd Phillips",
+      "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)",
+      "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy",
+      "Plot": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "Language": "English",
+      "Country": "USA, Canada",
+      "Awards": "Won 2 Oscars. Another 92 wins & 199 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "68%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "8.5",
+      "imdbVotes": "809,274",
+      "imdbID": "tt7286456",
+      "Type": "movie",
+      "DVD": "17 Dec 2019",
+      "BoxOffice": "N/A",
+      "Production": "Warner Bros. Pictures",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 10
+    },
+    {
+      "Title": "Avatar",
+      "Year": "2009",
+      "Rated": "PG-13",
+      "Released": "18 Dec 2009",
+      "Runtime": "162 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "James Cameron",
+      "Writer": "James Cameron",
+      "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+      "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Won 3 Oscars. Another 86 wins & 129 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.8",
+      "imdbVotes": "1,095,138",
+      "imdbID": "tt0499549",
+      "Type": "movie",
+      "DVD": "22 Apr 2010",
+      "BoxOffice": "$749,700,000",
+      "Production": "20th Century Fox",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 11
+    },
+    {
+      "Title": "Fargo",
+      "Year": "1996",
+      "Rated": "R",
+      "Released": "05 Apr 1996",
+      "Runtime": "98 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Joel Coen, Ethan Coen",
+      "Writer": "Ethan Coen, Joel Coen",
+      "Actors": "William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudrüd",
+      "Plot": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "Language": "English",
+      "Country": "USA, UK",
+      "Awards": "Won 2 Oscars. Another 81 wins & 57 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "8.1",
+      "imdbVotes": "593,227",
+      "imdbID": "tt0116282",
+      "Type": "movie",
+      "DVD": "24 Jun 1997",
+      "BoxOffice": "N/A",
+      "Production": "Gramercy Pictures",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 12
+    },
+    {
+      "Title": "Reservoir Dogs",
+      "Year": "1992",
+      "Rated": "R",
+      "Released": "02 Sep 1992",
+      "Runtime": "99 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Quentin Tarantino",
+      "Writer": "Quentin Tarantino, Quentin Tarantino (background radio dialogue written by), Roger Avary (background radio dialogue written by)",
+      "Actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+      "Plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "12 wins & 22 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "8.3",
+      "imdbVotes": "888,475",
+      "imdbID": "tt0105236",
+      "Type": "movie",
+      "DVD": "05 Nov 2002",
+      "BoxOffice": "N/A",
+      "Production": "Miramax Films",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 13
+    },
+    {
+      "Title": "Pulp Fiction",
+      "Year": "1994",
+      "Rated": "R",
+      "Released": "14 Oct 1994",
+      "Runtime": "154 min",
+      "Genre": "Crime, Drama",
+      "Director": "Quentin Tarantino",
+      "Writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
+      "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+      "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "Language": "English, Spanish, French",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 69 wins & 74 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.9",
+      "imdbVotes": "1,757,271",
+      "imdbID": "tt0110912",
+      "Type": "movie",
+      "DVD": "19 May 1998",
+      "BoxOffice": "N/A",
+      "Production": "Miramax Films",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 14
+    }
+  ]
+}

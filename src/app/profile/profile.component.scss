@@ -1,0 +1,22 @@
+/* MIXINS */
+
+@mixin flexbox($align, $justify, $direction, $wrap) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+  flex-direction: $direction;
+  flex-wrap: $wrap;
+}
+
+/* BASIC */
+
+.profile-film {
+  @include flexbox(null, space-between, column, wrap);
+  min-height: 200px;
+  background-color: rgba(78, 205, 196, 0.25);
+  padding: 40px 24px;
+  border-radius: 20px;
+  flex: 1;
+  height: 100%;
+  width: 100%;
+}

@@ -1,0 +1,116 @@
+/* VARIABLES */
+
+$english-green: #1a535c;
+$medium-turquoise: #4ecdc4;
+$mint-cream: #f7fff7;
+$pastel-red: #ff6b6b;
+$maize: #ffe66d;
+
+/* STYLE */
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  background-color: $english-green !important;
+}
+
+a {
+  color: #92badd;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: $mint-cream;
+}
+
+h3 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 0px !important;
+}
+
+h4 {
+    margin-bottom: 0px;
+    line-height: 3rem;
+}
+
+h6 {
+  padding-top: 1rem;
+}
+
+img {
+    width: 100%;
+}
+
+button.btn-circle {
+    border-radius: 50%;
+}
+
+.btn-outline-danger {
+  color: $pastel-red;
+  border-color: $pastel-red;
+}
+
+.btn-outline-danger:not(:disabled):not(.disabled):active,
+.btn-outline-danger:not(:disabled):not(.disabled).active,
+.show > .btn-outline-danger.dropdown-toggle {
+  background-color: $pastel-red;
+  border-color: $pastel-red;
+}
+
+.btn-outline-danger:focus,
+.btn-outline-danger.focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 107, 107, 0.5);
+}
+
+.btn-light:focus, .btn-light.focus {
+  color: #212529;
+  background-color: $mint-cream !important;
+  border-color: $mint-cream;
+  box-shadow: 5px 5px 5px 0px rgba(78, 205, 196, 0.25);
+}
+
+.form-control {
+  background-color: $mint-cream !important;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: $mint-cream !important;
+  box-shadow: 5px 5px 5px 0px rgba(78, 205, 196, 0.25);
+}
+
+.nav-pills .nav-item {
+  margin-right: 32px;
+
+  &:last-child {
+    margin-right: 0px;
+  }
+
+  .nav-link {
+    color: $english-green;
+  }
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: transparent;
+  border-bottom: 4px solid $maize;
+  border-radius: 0px;
+  color: $medium-turquoise;
+}
+
+.text-truncate {
+    width: 100%;
+}
+
+.card-footer {
+  background: transparent;
+  border-top: 0px;
+  margin-top: auto;
+}

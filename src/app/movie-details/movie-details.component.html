@@ -1,0 +1,49 @@
+<app-navbar></app-navbar>
+
+<div class="container">
+
+  <div *ngIf="movieData" class="d-flex flex-row-reverse">
+    <div class="col-5">
+      <img [src]="imageToShow"
+           alt="Place image title"
+           *ngIf="!isImageLoading; else noImageFound">
+      <ng-template #noImageFound>
+      </ng-template>
+    </div>
+    <div class="col-7">
+      <div class="row d-flex justify-content-between align-items-center mb-3">
+        <div class="col-8">
+          <h3>
+            {{ movieData.Title }}
+          </h3>
+        </div>
+        <div *ngIf="!isInFavorites" class="col-2 text-right">
+          <button type="button" class="btn btn-light btn-circle" (click)="addToFavorites()">&#9734;</button>
+        </div>
+        <div *ngIf="isInFavorites" class="col-2 text-right">
+          <button type="button" class="btn btn-light btn-circle" (click)="addToFavorites()" disabled>&#9733;</button>
+        </div>
+      </div>
+
+      <p>
+        {{ movieData.Plot }}
+      </p>
+      <p>
+        Runtime:
+        {{ movieData.Runtime }}
+      </p>
+      <p>
+        Year:
+        {{ movieData.Year }}
+      </p>
+      <p>
+        Language:
+        {{ movieData.Language }}
+      </p>
+      <p>
+        IMDb rating:
+        {{ movieData.imdbRating }}
+      </p>
+    </div>
+  </div>
+  </div>
